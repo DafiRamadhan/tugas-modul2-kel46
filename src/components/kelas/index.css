@@ -1,0 +1,10 @@
+.identity {
+    padding-top: 100px;
+    display: inline-block;
+}
+
+.text {
+    text-align: center;
+    font-family: Arial;
+    text-shadow: 0px 1px 1px #000000;
+}
